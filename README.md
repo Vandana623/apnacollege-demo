@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <Br>
-Author - Vandana
+Author - Vandana(apna college)
